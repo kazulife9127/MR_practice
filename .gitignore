@@ -58,25 +58,4 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-Assets/Fonts/MEIRYO SDF.asset
-Assets/MRTK/Examples/Demos/EyeTracking/DemoScrollPanZoom/Textures/tex_PanAndZoom_map.png
-Assets/Fonts/MEIRYO 1.TTC
-Assets/Fonts/MEIRYO.TTC
-Assets/Fonts/MEIRYOB 1.TTC
-Assets/Fonts/MEIRYOB.TTC
-Packages/MixedReality/com.microsoft.mixedreality.toolkit.foundation-2.7.3.tgz
-Packages/MixedReality/com.microsoft.mixedreality.toolkit.standardassets-2.7.3.tgz
-Packages/MixedReality/com.microsoft.mixedreality.openxr-1.4.0.tgz
-Packages/MixedReality/com.microsoft.azure.spatial-anchors-sdk.android-2.12.0.tgz
-Packages/MixedReality/com.microsoft.azure.spatial-anchors-sdk.core-2.12.0.tgz
-Packages/MixedReality/com.microsoft.azure.spatial-anchors-sdk.ios-2.12.0.tgz
-Packages/MixedReality/com.microsoft.azure.spatial-anchors-sdk.windows-2.12.0.tgz
-Assets/MRTK/Examples/Demos/ScrollingObjectCollection/Scenes/ScrollingObjectCollection.unity
-Assets/MRTK/Examples/StandardAssets/Textures/Lander_channel.png
-Assets/MRTK/Examples/StandardAssets/Models/MarsCuriosityRover.FBX
-Assets/MRTK/Examples/StandardAssets/Models/HumanHeart.fbx
-Assets/MRTK/Examples/StandardAssets/Models/EarthCore.fbm/5.png
-Assets/MRTK/Examples/StandardAssets/Models/EarthCore.fbx
-Assets/MRTK/SDK/StandardAssets/Textures/PanExampleContent.jpg
-Assets/MRTK/SDK/StandardAssets/Models/SpatialAwareness/ExampleSpatialMesh.room
-Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+
